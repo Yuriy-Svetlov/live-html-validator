@@ -10,7 +10,7 @@ You may also want to use:
 * [live-reload-browser-page](https://live-reload-browser-page.com/)
 * [live-alert-browser-page](https://live-alert-browser-page.com/)
 
-![Live HTML Validator](https://raw.githubusercontent.com/Yuriy-Svetlov/live-html-validator/main/images/4_1280x800.png)
+![Live HTML Validator](https://raw.githubusercontent.com/Yuriy-Svetlov/live-html-validator/main/images/main.png)
 
 
 
