@@ -1,1 +1,1 @@
-node live-alert-bp.js
+node index.js
