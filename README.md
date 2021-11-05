@@ -12,6 +12,8 @@ You may also want to use:
 
 ![Live HTML Validator](https://raw.githubusercontent.com/Yuriy-Svetlov/live-html-validator/master/images/4_1280x800.png)
 
+____________________
+
 ![Live HTML Validator](https://raw.githubusercontent.com/Yuriy-Svetlov/live-html-validator/master/images/3_1280x800.png)
 
 ## Installs
