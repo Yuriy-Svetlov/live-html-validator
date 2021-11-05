@@ -29,9 +29,7 @@ npm i live-html-validator --save-dev
 
 ##  How to use
 
-[Example of how to establish a connection to the plugin «**Live HTML Validator**»](
-
-https://github.com/Yuriy-Svetlov/live-html-validator/tree/main/documentation/examples/%D1%81onnect_to_server)
+[Example of how to establish a connection to the plugin «**Live HTML Validator**»](https://github.com/Yuriy-Svetlov/live-html-validator/tree/main/documentation/examples/%D1%81onnect_to_server)
 
 ```javascript
 
