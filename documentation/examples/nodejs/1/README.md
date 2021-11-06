@@ -25,7 +25,7 @@ In the console you should see the following message:
 Open your browser: http://localhost:3000
 
 
-**5.** Set up a connection with the plugin. [Example of how to establish a connection to a plugin](https://github.com/Yuriy-Svetlov/live-alert-bp/tree/master/documentation/examples/%D1%81onnect_to_server)
+**5.** Set up a connection with the plugin. [Example of how to establish a connection to a plugin](https://github.com/Yuriy-Svetlov/live-html-validator/tree/main/documentation/examples/%D1%81onnect_to_server)
 
 **6.** Change the file `index.html` (make a syntax error).
 
