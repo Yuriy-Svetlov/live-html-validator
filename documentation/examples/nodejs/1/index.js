@@ -3,6 +3,7 @@
 const 
   chokidar = require('chokidar'),
   express = require('express'),
+  webServer = require('./web-server'),
   liveHTMLValidator = require("live-html-validator");
 
 const
@@ -11,10 +12,6 @@ const
     host: '127.0.0.1',
 	  port: '8080'
   });
-
-const app = express();
-const port = 3000;
-const host = 'localhost';
 
 // Run Server
 htmlValidator.run();
@@ -25,11 +22,4 @@ chokidar.watch(dest).on('change', (path) => {
   htmlValidator.check();
 });
 
-
-app.get('/', function (req, res) {
-
-  res.sendFile('./index.html', {root: __dirname })
-});
-
-
-app.listen(port, host, () => console.log(`host: ${host}  port: ${port}`))
+webServer();

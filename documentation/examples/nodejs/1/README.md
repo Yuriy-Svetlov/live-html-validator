@@ -5,7 +5,7 @@
 **2.** Go to the directory with `index.html` and place all files in the root directory of your web server.
 
 
-run the command in console: 
+Run the command in console: 
 
 ```shell
 npm install
@@ -14,16 +14,21 @@ npm install
 **3.** Double-clisk on **start.bat** or run in console 
 
 ```shell
-gulp start
+node index.js
 ```
 In the console you should see the following message:
 
 > Server started | host: 127.0.0.1 | port: 8080
+> Open your browser: http://localhost:3000
 
-**4.** Set up a connection with the plugin. [Example of how to establish a connection to a plugin](https://github.com/Yuriy-Svetlov/live-alert-bp/tree/master/documentation/examples/%D1%81onnect_to_server)
+**4.** 
+Open your browser: http://localhost:3000
 
-**5.** Change a file `.js` (make a syntax error).
+
+**5.** Set up a connection with the plugin. [Example of how to establish a connection to a plugin](https://github.com/Yuriy-Svetlov/live-alert-bp/tree/master/documentation/examples/%D1%81onnect_to_server)
+
+**6.** Change a file `index.html` (make a syntax error).
 
 **Congratulation!**
 
-You should hear a sound and see a visual notification on the browser page.
+You should hear a sound and see a visual notifications of an invalid HTML validation of the page.
