@@ -20,7 +20,6 @@ In the console you should see the following message:
 
 > Server started | host: 127.0.0.1 | port: 8080
 
-> Open your browser: http://localhost:3000
 
 **4.** 
 Open your browser: http://localhost:3000
