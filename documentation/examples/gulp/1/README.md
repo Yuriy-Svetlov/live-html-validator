@@ -13,7 +13,7 @@ npm install
 **3.** Double-clisk on **start.bat** or run in console 
 
 ```shell
-node index.js
+gulp start
 ```
 In the console you should see the following message:
 
