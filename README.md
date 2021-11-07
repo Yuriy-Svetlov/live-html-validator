@@ -96,10 +96,10 @@ ssl: {
 }
 ```
 
-### Instance methods
+### Methods
 
-#### liveAlert.run()
+#### htmlValidatorMain.run()
 Running the server
 
-#### liveAlert.check()
+#### htmlValidatorMain.check()
 Validating an HTML web page
