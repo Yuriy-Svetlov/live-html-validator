@@ -26,7 +26,7 @@ Open your browser: http://localhost:3000
 
 **5.** Set up a connection with the plugin. [Example of how to establish a connection to a plugin](https://github.com/Yuriy-Svetlov/live-html-validator/tree/main/documentation/examples/%D1%81onnect_to_server)
 
-**6.** Change the file `index.html` (make an error or warning). As example you can change from `<html lang="en">` to `<html>`, or from `<img class="logo" src="/img/1.png" alt="logo" style="z-index: 0;">` to `<img class="logo" src="/img/1.png" style="z-index: 0;">`
+**6.** Change the file `index.html` (make an error or a warning). As example you can change from `<html lang="en">` to `<html>`, or from `<img class="logo" src="/img/1.png" alt="logo" style="z-index: 0;">` to `<img class="logo" src="/img/1.png" style="z-index: 0;">`
 
 **Congratulation!**
 
