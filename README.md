@@ -32,7 +32,21 @@ npm i live-html-validator --save-dev
 [Example of how to establish a connection to the plugin «**Live HTML Validator**»](https://github.com/Yuriy-Svetlov/live-html-validator/tree/main/documentation/examples/%D1%81onnect_to_server)
 
 ```javascript
+const 
+  htmlValidator = require("live-html-validator");
 
+const
+  htmlValidatorMain = new htmlValidator({
+    host: '127.0.0.1',
+    port: '8080'
+  });
+
+// Run Server
+htmlValidatorMain.run();
+
+setTimeout(function(){
+  htmlValidatorMain.check();
+}, 5000);
 ```
 
 ##  Examples:
