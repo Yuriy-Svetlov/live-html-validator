@@ -45,6 +45,7 @@ const
 htmlValidatorMain.run();
 
 setTimeout(function(){
+  // Validating HTML in your web page
   htmlValidatorMain.check();
 }, 5000);
 ```
