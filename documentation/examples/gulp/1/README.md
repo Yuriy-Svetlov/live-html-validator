@@ -1,8 +1,8 @@
-# Example - 1 (NodeJs) (live-html-validator)
+# Example - 1 (Gulp) (live-html-validator)
 
-**1.** Download or copy [example-1](https://github.com/Yuriy-Svetlov/live-html-validator/tree/main/documentation/examples/nodejs/1)
+**1.** Download or copy [example-1](https://github.com/Yuriy-Svetlov/live-html-validator/tree/main/documentation/examples/gulp/1)
 
-**2.** Go to the directory with `index.html`.
+**2.** Go to the directory with `gulpfile.js`.
 
 Run the command in console: 
 
