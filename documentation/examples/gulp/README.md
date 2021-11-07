@@ -8,3 +8,5 @@
 ## Examples
 
 1. [example-1](https://github.com/Yuriy-Svetlov/live-html-validator/tree/main/documentation/examples/gulp/1)
+
+2. [example-2](https://github.com/Yuriy-Svetlov/live-html-validator/tree/main/documentation/examples/gulp/2)
