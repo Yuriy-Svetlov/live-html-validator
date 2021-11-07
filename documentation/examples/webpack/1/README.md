@@ -18,7 +18,7 @@ In the console you should see the following message:
 
 > Server started | host: 127.0.0.1 | port: 8080
 
-**4.** Set up a connection with the plugin. (host: 127.0.0.1 and port: 8080) [Example of how to establish a connection to a plugin](https://github.com/Yuriy-Svetlov/live-alert-bp/tree/master/documentation/examples/%D1%81onnect_to_server)
+**4.** Set up a connection with the plugin. (host: 127.0.0.1 and port: 8080) [Example of how to establish a connection to a plugin](https://github.com/Yuriy-Svetlov/live-html-validator/tree/main/documentation/examples/%D1%81onnect_to_server)
 
 **5.** Open the browser plugin and go to «Live HTML Validator» -> «Settings» scroll down to «Other settings» and set «Delay before validation» to 1000 or 2000. Reconnect to the server plugin.
 
