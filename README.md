@@ -56,3 +56,50 @@ setTimeout(function(){
 * [Gulp](https://github.com/Yuriy-Svetlov/live-html-validator/tree/main/documentation/examples/gulp)
 * [Webpack](https://github.com/Yuriy-Svetlov/live-html-validator/tree/main/documentation/examples/webpack)
 * [Grunt](https://github.com/Yuriy-Svetlov/live-html-validator/tree/main/documentation/examples/grunt)
+
+
+##  API
+
+### Instance options (for run the server)
+
+`const htmlValidatorMain = new htmlValidator({options});`
+
+#### options.host
+* Type: `String`
+* Default value: `127.0.0.1`
+
+#### options.port
+* Type: `String|Integer`
+* Default value: `8080`
+
+#### options.debug
+* Type: `boolean`
+* Default value: `false`
+
+Prints additional data to the console
+
+#### options.ssl
+* Type: `ObjectJSON`
+* Default value: `undefined`
+
+To connect via SSL connection.
+
+[options SSL](https://nodejs.org/api/tls.html#tls_tls_createsecurecontext_options)
+
+```js
+ssl: { 
+  enable: true,
+    options: { 
+      key: './ssl/my.key',
+      cert: './ssl/my.crt'  
+  }               
+}
+```
+
+### Instance methods
+
+#### liveAlert.run()
+Running the server
+
+#### liveAlert.check()
+Validating an HTML web page
