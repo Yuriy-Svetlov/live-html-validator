@@ -1,7 +1,7 @@
 # Example - 1 (Webpack) (live-html-validator)
 
 
-**1.** Download or copy [example-1](https://github.com/Yuriy-Svetlov/live-alert-bp/tree/master/documentation/examples/webpack/1)
+**1.** Download or copy [example-1](https://github.com/Yuriy-Svetlov/live-html-validator/tree/main/documentation/examples/webpack/1)
 
 **2.** Go to the directory with `webpack.config.js` and run the command in console: 
 
