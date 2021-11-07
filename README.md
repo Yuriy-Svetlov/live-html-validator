@@ -60,7 +60,7 @@ setTimeout(function(){
 
 ##  API
 
-### Instance options (for run the server)
+### Instance options
 
 `const htmlValidatorMain = new htmlValidator({options});`
 
