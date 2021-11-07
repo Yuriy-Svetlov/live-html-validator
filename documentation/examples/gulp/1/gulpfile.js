@@ -7,7 +7,10 @@ const
   htmlmin = require('gulp-htmlmin');
 
 const 
-  $htmlValidator = new htmlValidator({host: '127.0.0.1', port: '8080'});
+  $htmlValidator = new htmlValidator({
+    host: '127.0.0.1', 
+    port: '8080'
+  });
 
 const 
   htmlWatch = 'src/**/*.html',
