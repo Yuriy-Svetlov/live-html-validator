@@ -1,6 +1,6 @@
 # Connect to server (Live HTML Validator)
 
-&#9888; First of all, we recommend that you disable all browser plug-ins that can affect on **Live Alert Browser Page**.
+&#9888; First of all, we recommend that you disable all browser plug-ins that can affect on **Live HTML Validator**.
 
 After you have started the server, you can connect to it. 
 
