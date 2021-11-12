@@ -19,8 +19,7 @@ You may also want to use:
 **Step - 1** 
 
 You need to install the browser plugin [Live HTML Validator](https://live-html-validator.com/) if you have not already installed it for:
-  * [Google Chrome](#)
-  * Firefox (not yet available)
+  * [Google Chrome](https://chrome.google.com/webstore/detail/live-html-validator/hojcgkcomonibjdgfohcginmooigkjdg)
   
 **Step - 2**
 ```shell
