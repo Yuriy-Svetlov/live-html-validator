@@ -102,3 +102,7 @@ Running the server
 
 #### htmlValidatorMain.check()
 Validating an HTML web page
+
+###  Browser plugin API
+
+[API of browser plugin **Live HTML Validator**](https://live-html-validator.com/documentation)
